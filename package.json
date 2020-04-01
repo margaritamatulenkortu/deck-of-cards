@@ -1,0 +1,23 @@
+{
+  "name": "deck-of-cards",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/jest",
+    "testwatch": "node_modules/.bin/jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "jest": {
+    "verbose": true,
+    "testRegex": ".*\\.test\\.js$",
+    "testEnvironment": "node"
+  },
+  "devDependencies": {
+    "jest": "^22.4.3"
+  },
+  "dependencies": {
+    "axios": "^0.18.1"
+  }
+}

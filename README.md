@@ -34,4 +34,4 @@ From this it can be deduced that it is not possible to put Jokers in pile.
 ### Installation
 
 1. cmd: `node install`
-2. cmd: `jest`
+2. cmd: `npm test`
